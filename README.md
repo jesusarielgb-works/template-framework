@@ -8,7 +8,7 @@
 > 1. Replace every `[bracketed]` placeholder in this file, `CHANGELOG.md` and `CITATION.cff`.
 > 2. Copy `01-section/` once per section, numbered in the order a reader should fill them.
 > 3. Every rule you write states how it is verified and which evidence supports it — see
->    [`01-section/rule-document.md`](01-section/rule-document.md).
+>    [`01-section/rule-document.md`](01-section/rule-documnet.md).
 > 4. List in `anclas.json` every file another repository consumes, so CI protects its path.
 > 5. Add the topics `jesusarielgb-works`, `domain-*`, `type-framework`, `status-*`, `lang-*`
 >    so the catalog lists this repository.
