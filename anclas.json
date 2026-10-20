@@ -1,0 +1,4 @@
+{
+  "description": "Files other repositories consume. CI fails if one is missing or its SHA-256 (of the LF blob) changes. Update a hash only in a major version.",
+  "files": {}
+}
